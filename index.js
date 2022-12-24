@@ -18,7 +18,7 @@ function add_item() {
         
         // Delete a li item on click
         make_li.onclick = function(){
-            this.parentNode.removeChild(this);
+//             this.parentNode.removeChild(this);
         }
     
     }
