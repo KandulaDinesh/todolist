@@ -17,9 +17,9 @@ function add_item() {
         item.value=""
         
         // Delete a li item on click
-//         make_li.onclick = function(){
+        make_li.onclick = function(){
 //             this.parentNode.removeChild(this);
-//         }
+        }
     
     }
     else{
